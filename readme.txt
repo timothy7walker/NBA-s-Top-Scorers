@@ -11,6 +11,8 @@ The project is organized in a Jupiter notebook using Python version 3.9.12. The 
 should be installed to run this analysis so that the pandas, matplotlib, numpy, and seaborn libraries 
 can be utilized.
 
+Project file name: TimothyWalkerNBA.ipynb
+
 Project features:
 
 1. - A csv file is read into a dataframe for analysis ("Seasons_Stats.csv" from kaggle.com).
