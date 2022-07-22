@@ -38,3 +38,18 @@ Project features:
      The project notebook follows step by step the process using to analyze and represent the data 
      in this project.
 
+requirements.txt contents:
+
+Jupiter Notebook to view .ipynb files.
+Go to https://jupyter.org/install:
+Jupyter Notebook
+Install the classic Jupyter Notebook with:
+
+pip install notebook
+To run the notebook:
+
+jupyter notebook
+
+The Anaconda application should also be install. Anaconda includes the Jupitor Notebook
+application along with pandas, matplotlib, numpy, and seaborn libraries needed to run this project.
+Download Anaconda from: https://www.anaconda.com/
