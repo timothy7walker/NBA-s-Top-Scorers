@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np
+#import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -13,8 +13,8 @@ seasonStats['Year'] = seasonStats['Year'].astype(int)
 seasonStats['PTS'] = seasonStats['PTS'].astype(int)
 seasonStats['Age'] = seasonStats['Age'].astype(int)
 
-playerData = pd.DataFrame(seasonStats, columns = ['Year','Player','Pos','Age','Tm','PTS'])
-playerDatalib = playerData.to_dict('index')
+#playerData = pd.DataFrame(seasonStats, columns = ['Year','Player','Pos','Age','Tm','PTS'])
+#playerDatalib = playerData.to_dict('index')
 
 seasonByYear = seasonStats.sort_values(by = 'Year') 
 

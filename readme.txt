@@ -40,6 +40,11 @@ Project features:
 
 requirements.txt contents:
 
+I recommend using Google Collaborator to view the project notebook:
+Google Collaborator: https://colab.research.google.com/?utm_source=scs-index
+
+Other more advance ways to view the project:
+
 Jupiter Notebook to view .ipynb files.
 Go to https://jupyter.org/install:
 Jupyter Notebook
