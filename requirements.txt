@@ -1,3 +1,7 @@
+!pip install matplotlib
+!pip install pandas
+!pip install notebook
+
 Jupiter Notebook to view .ipynb files.
 Go to https://jupyter.org/install:
 Jupyter Notebook
