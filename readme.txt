@@ -15,6 +15,7 @@ should be installed to run this analysis so that the pandas, matplotlib, numpy, 
 can be utilized.*****
 
 Project file name: TimothyWalkerNBA.ipynb
+Project web location link: https://github.com/timothy7walker/NBA-s-Top-Scorers/blob/main/TimothyWalkerNBA.ipynb
 
 Project features:
 
@@ -49,7 +50,7 @@ Google Collaborator: https://colab.research.google.com/?utm_source=scs-index
 
 Other more advance ways to view the project:
 
-Jupiter Notebook to view .ipynb files.
+Install Jupiter Notebook to view .ipynb files.
 Go to https://jupyter.org/install:
 Jupyter Notebook
 Install the classic Jupyter Notebook with:
@@ -59,7 +60,7 @@ To run the notebook:
 
 jupyter notebook
 
-The Anaconda application should also be installed if the program will be ran on a editor such as Visual Code. 
+The Anaconda application can also be installed to view the project. 
 Anaconda includes the Jupitor Notebook application along with pandas, matplotlib, numpy, and seaborn libraries 
 needed to run this project.
 Download Anaconda from: https://www.anaconda.com/

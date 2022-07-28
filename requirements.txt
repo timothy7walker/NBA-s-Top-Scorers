@@ -2,16 +2,27 @@ The py and ipynb files both are using Python version 3.9.12
 
 Libraries needed for the Python program to run.
 
-!pip install matplotlib
-!pip install pandas
-!pip install notebook
+pip install matplotlib
+pip install pandas
+pip install notebook
 
 The py and ipynb files both are using Python version 3.9.12
 
+The project file: https://github.com/timothy7walker/NBA-s-Top-Scorers/blob/main/TimothyWalkerNBA.ipynb
 
-Jupiter Notebook to view .ipynb files.
-Go to https://jupyter.org/install:
-Jupyter Notebook
+* I recommend using Google Collaborator to view the project notebook:
+Google Collaborator does not require Anaconda application install.
+1. Go to Google Collaborator: https://colab.research.google.com/?utm_source=scs-index
+2. Click on the File menu at the top of Collaborator and click 'Open notebook.' 
+3. A menu options window will open. At the top of the menu window click the 'GitHub' tab.
+4. In the provided space labeled, 'Enter a GitHub URL or search by organization or user', paste 
+   the link to the project file: https://github.com/timothy7walker/NBA-s-Top-Scorers/blob/main/TimothyWalkerNBA.ipynb
+
+
+Jupiter lab is a web based notebook editor and can also be used to view .ipynb files.
+1. Go to https://jupyter.org/try-jupyter/lab/ to run the Jupyter web based program. 
+
+Jupyter Notebook can be installed to open the project also:
 Install the classic Jupyter Notebook with:
 
 pip install notebook
@@ -19,6 +30,6 @@ To run the notebook:
 
 jupyter notebook
 
-The Anaconda application should also be install. Anaconda includes the Jupitor Notebook
+The Anaconda application can also be installed on the user computer. Anaconda includes the Jupitor Notebook
 application along with pandas, matplotlib, numpy, and seaborn libraries needed to run this project.
 Download Anaconda from: https://www.anaconda.com/
