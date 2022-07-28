@@ -1,6 +1,13 @@
+The py and ipynb files both are using Python version 3.9.12
+
+Libraries needed for the Python program to run.
+
 !pip install matplotlib
 !pip install pandas
 !pip install notebook
+
+The py and ipynb files both are using Python version 3.9.12
+
 
 Jupiter Notebook to view .ipynb files.
 Go to https://jupyter.org/install:
